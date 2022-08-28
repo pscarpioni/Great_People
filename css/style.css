@@ -1,0 +1,20 @@
+#cabecalho{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	color: #FFFAFA;
+	margin: auto;
+	background-color: #FFFAFA;
+	border: 1px solid #20B2AA;
+}
+#buttom{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #20B2AA;
+	border-color: #FFFFFF;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-right: 0px;
+	margin-bottom: 40px;
+	margin-left: 90px;
+}
